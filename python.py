@@ -20,7 +20,7 @@ def justify_paragraph(paragraph, page_width):
     return left_justified, right_justified
 
 paragraph_input = "This is a sample paragraph that we want to justify based on the given page width. Let's see how the program performs."
-page_width_input = 40
+page_width_input = 16
 
 left_justified, right_justified = justify_paragraph(paragraph_input, page_width_input)
 
