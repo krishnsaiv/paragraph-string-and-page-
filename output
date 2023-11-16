@@ -1,0 +1,15 @@
+Input: words = [“This”, “is”, “an”, “example”, “of”, “text”, “justification.”], maxWidth = 16
+Output:
+[
+“This is an”,
+“example of text”,
+“justification. “
+]
+
+Input: words = [“What”,”must”,”be”,”acknowledgment”,”shall”,”be”], maxWidth = 16
+Output:
+[
+“What must be”,
+“acknowledgment “,
+“shall be “
+]¹
